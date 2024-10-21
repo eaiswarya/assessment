@@ -28,7 +28,9 @@ public class Employee
         Console.WriteLine("grossPay:" + gross);
 
         var tax = gross * 0.2;
+        double netPay = gross - tax;
         Console.WriteLine("tax:" + tax);
+            Console.WriteLine("netPay:"+netPay);
 
 
     }
