@@ -1,0 +1,7 @@
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\pushk\OneDrive\Desktop\assessment\assessment-c-\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
